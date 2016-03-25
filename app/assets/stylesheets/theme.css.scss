@@ -1,5 +1,6 @@
 $brand-primary: #808080;
 $brand-language: #FF69B4; 
+$brand-secondary: #424242;
 
 .jumbotron {
   background: $brand-primary;
@@ -22,6 +23,7 @@ $brand-language: #FF69B4;
 
   .navbar + & {
     margin-top: -20px;
+    background: $brand-secondary;
   }
 
   .lang-logo {
