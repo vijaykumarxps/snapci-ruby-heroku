@@ -23,7 +23,7 @@ $brand-secondary: #424242;
 
   .navbar + & {
     margin-top: -20px;
-    background: #FF69B4;
+    background: $brand-primary;
   }
 
   .lang-logo {
