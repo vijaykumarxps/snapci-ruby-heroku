@@ -2,7 +2,7 @@
 
 A barebones Rails app which can easily be deployed to Heroku using [Snap CI] (snap-ci.com).
 
-This application supports the [Getting Started with Snap CI] (https://docs.snap-ci.com/getting-started/simple-deployment-to-heroku/) article.
+This application supports the [Getting Started with Snap CI simple deployment example] (https://docs.snap-ci.com/getting-started/simple-deployment-to-heroku/) article.
 
 # Deploying this app to Heroku using Snap CI
 
